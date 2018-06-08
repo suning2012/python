@@ -119,7 +119,7 @@ linux进程有父进程、子进程；Windows的进程是平等关系
 终止(Terminated)：线程完成，或退出，或被取消
 
 
-
+![threading_status](/assets/threading_status.svg)
 
 
 
